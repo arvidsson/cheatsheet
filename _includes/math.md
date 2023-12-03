@@ -15,3 +15,10 @@ distance(a,b) = $$\vert \vert b - a \vert \vert$$
 unit vector = normalized vector = length of 1
 
 direction(v) = $$\frac{a}{\vert \vert a \vert \vert}$$
+
+### Dot Product
+
+dot product uses cases:
+
+- find out relationship between vectors, if a is in front of or behind of b
+-
