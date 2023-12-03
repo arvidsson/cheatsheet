@@ -21,4 +21,4 @@ direction(v) = $$\frac{a}{\vert \vert a \vert \vert}$$
 dot product uses cases:
 
 - find out relationship between vectors, if a is in front of or behind of b
--
+- another example here
